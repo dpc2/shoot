@@ -1,2 +1,2 @@
 # shoot
-a simple opengl game
+a simple opengl game 
