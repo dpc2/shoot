@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=gnu++2a -Wall -g -O0   CMakeFiles/shoot.dir/main.cpp.o CMakeFiles/shoot.dir/world.cpp.o  -o shoot  -lGL -lGLU -lglut -lm -lpthread object/libobject.a gui/libgui.a enemy/libenemy.a rocket/librocket.a player/libplayer.a -lGL -lGLU -lglut -lm -lpthread 

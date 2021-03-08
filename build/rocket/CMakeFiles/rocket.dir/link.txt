@@ -1,0 +1,2 @@
+/usr/bin/ar qc librocket.a  CMakeFiles/rocket.dir/bomb.cpp.o CMakeFiles/rocket.dir/particle.cpp.o CMakeFiles/rocket.dir/rocket.cpp.o CMakeFiles/rocket.dir/rocket2.cpp.o
+/usr/bin/ranlib librocket.a

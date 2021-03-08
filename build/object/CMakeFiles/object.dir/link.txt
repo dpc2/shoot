@@ -1,0 +1,2 @@
+/usr/bin/ar qc libobject.a  CMakeFiles/object.dir/object.cpp.o CMakeFiles/object.dir/terrain.cpp.o
+/usr/bin/ranlib libobject.a
